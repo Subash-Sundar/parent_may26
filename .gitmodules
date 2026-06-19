@@ -1,0 +1,3 @@
+[submodule "Child folder"]
+	path = Child folder
+	url = https://github.com/Subash-Sundar/child_may26.git
